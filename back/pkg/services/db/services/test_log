@@ -1,0 +1,10 @@
+2021-01-26T16:31:05.828-0300	INFO	log/service.go:61	Inicializando Base de Datos
+2021-01-26T16:31:05.864-0300	PANIC	log/service.go:81	dial tcp: lookup mysql on 172.26.241.254:53: no such host
+2021-01-26T16:34:17.378-0300	INFO	log/service.go:61	Inicializando Base de Datos
+2021-01-26T16:34:17.400-0300	PANIC	log/service.go:81	dial tcp: lookup mysql on 172.26.241.254:53: no such host
+2021-01-26T16:35:24.332-0300	INFO	log/service.go:61	Inicializando Base de Datos
+2021-01-26T16:35:24.358-0300	PANIC	log/service.go:81	dial tcp: lookup mysql on 172.26.241.254:53: no such host
+2021-01-26T16:35:33.909-0300	INFO	log/service.go:61	Inicializando Base de Datos
+2021-01-26T16:35:33.934-0300	PANIC	log/service.go:81	dial tcp: lookup mysql on 172.26.241.254:53: no such host
+2021-01-26T16:36:08.312-0300	INFO	log/service.go:61	Inicializando Base de Datos
+2021-01-26T16:36:08.335-0300	PANIC	log/service.go:81	dial tcp: lookup mysql on 172.26.241.254:53: no such host

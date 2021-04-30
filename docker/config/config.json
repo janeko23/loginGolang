@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "igualdad-back",
+  "config": {
+    "debug": true,
+    "server": {
+      "port": "3000"
+    },
+    "db": {
+      "host": "mysql",
+      "port": 3306,
+      "username": "root",
+      "password": "DifficultPassword",
+      "database": "igualdad"
+    },
+    "ldap": {
+      "host": "ldap",
+      "port": "389"
+    },
+    "log": {
+      "devMode": true,
+      "file": "info.log"
+    }
+  }
+}
